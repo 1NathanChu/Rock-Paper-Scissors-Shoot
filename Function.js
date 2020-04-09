@@ -91,3 +91,18 @@ function cvc() {
         document.getElementById('Message').innerHTML = 'Computer wins. Computer picked scissors.'
     } 
 }
+    function scissors() {
+        var y = 
+    Math.floor(Math.random() * 3)
+    if (y == 0) {
+        document.getElementById('Message').innerHTML = 'Player wins. Computer picked rock.'
+    }
+    else if (y == 1) {
+        document.getElementById('Message').innerHTML = 'Tie. Computer picked paper'
+    }
+    else if (y == 2) {
+        document.getElementById('Message').innerHTML = 'Computer wins. Computer picked scissors.'
+    } 
+}
+
+    
