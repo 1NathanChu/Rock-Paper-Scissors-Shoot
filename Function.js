@@ -13,6 +13,7 @@ function hvc() {
         y.style.display = 'none'
     }
     x.style.display = 'block';
+
 }
 
 function cvc() {
@@ -61,4 +62,32 @@ function cvc() {
         alert('Oops!')
     }
     
+}
+
+    function rock() {
+       var y = 
+    Math.floor(Math.random() * 3)
+    if (y = 0) {
+        document.getElementById('Message').innerHTML =  'Tie. Computer picked rock.'
+    }
+    else if (y = 1) {
+        document.getElementById('Message').innerHTML = 'Computer wins. Computer picked paper'
+    }
+    else if (y = 2) {
+        document.getElementById('Message').innerHTML = 'Player wins. Computer picked scissors.'
+    }
+}
+
+    function paper() {
+        var y = 
+    Math.floor(Math.random() * 3)
+    if (y = 0) {
+        document.getElementById('Message').innerHTML = 'Player wins. Computer picked rock.'
+    }
+    else if (y = 1) {
+        document.getElementById('Message').innerHTML = 'Tie. Computer picked paper'
+    }
+    else if (y = 2) {
+        document.getElementById('Message').innerHTML = 'Computer wins. Computer picked scissors.'
+    } 
 }
