@@ -1,0 +1,23 @@
+div.Buttons {
+    display: none;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-family: 'Gotu', sans-serif;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+        font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-family: 'Raleway', sans-serif;
+}
+
+img, iframe {
+    height: 315px;
+    padding: 25px;
+}
