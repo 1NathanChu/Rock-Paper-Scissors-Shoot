@@ -1,2 +1,2 @@
-# Rock Paper Scissors Shoot
-### A simple rock paper scissors game made useing HTML, CSS, and JavaScript
+# Rock Paper Scissors Shoot.
+### A simple rock paper scissors game made using HTML, CSS, and JavaScript.
