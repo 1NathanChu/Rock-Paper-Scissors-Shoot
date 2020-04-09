@@ -67,13 +67,13 @@ function cvc() {
     function rock() {
        var y = 
     Math.floor(Math.random() * 3)
-    if (y = 0) {
+    if (y == 0) {
         document.getElementById('Message').innerHTML =  'Tie. Computer picked rock.'
     }
-    else if (y = 1) {
+    else if (y == 1) {
         document.getElementById('Message').innerHTML = 'Computer wins. Computer picked paper'
     }
-    else if (y = 2) {
+    else if (y == 2) {
         document.getElementById('Message').innerHTML = 'Player wins. Computer picked scissors.'
     }
 }
@@ -81,13 +81,13 @@ function cvc() {
     function paper() {
         var y = 
     Math.floor(Math.random() * 3)
-    if (y = 0) {
+    if (y == 0) {
         document.getElementById('Message').innerHTML = 'Player wins. Computer picked rock.'
     }
-    else if (y = 1) {
+    else if (y == 1) {
         document.getElementById('Message').innerHTML = 'Tie. Computer picked paper'
     }
-    else if (y = 2) {
+    else if (y == 2) {
         document.getElementById('Message').innerHTML = 'Computer wins. Computer picked scissors.'
     } 
 }
