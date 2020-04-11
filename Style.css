@@ -2,6 +2,11 @@ div.Buttons {
     display: none;
 }
 
+button {
+    padding: 10px;
+    margin: 15px;
+}
+
 p {
     color: rgb(0, 0, 0);
     font-family: 'Gotu', sans-serif;
@@ -19,5 +24,5 @@ h2 {
 
 img, iframe {
     height: 315px;
-    padding: 25px;
+    padding: 0px 25px;
 }
