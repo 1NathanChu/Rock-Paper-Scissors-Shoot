@@ -8,4 +8,4 @@ git clone https://github.com/MrSun10/Rock-Paper-Scissors-Shoot.git
 After you have cloned or downloaded it, simply open up the index.html file in your browser of choice.
 
 <sub><sup>This project is licensed under the 
-[GNU GPL v3](https://github.com/MrSun10/Rock-Paper-Scissors-Shoot/blob/master/Function.js)</sup></sub>
+[GNU GPL v3](https://github.com/MrSun10/Rock-Paper-Scissors-Shoot/blob/master/LICENSE)</sup></sub>
