@@ -1,7 +1,7 @@
 # Rock Paper Scissors Shoot
 A simple rock paper scissors game made using HTML, CSS, and JavaScript.
 ## Running it
-To run it, simply dowload it using the green "Clone or Download button near the top right of the files, or use git at the command line:
+To run it, go to [github.nathanchu.com/Rock-Paper-Scissors-Shoot](https://github.nathanchu.com/Rock-Paper-Scissors-Shoot), simply dowload it using the green "Clone or Download" button near the top right of the files, or use git at the command line:
 ```bash
 git clone https://github.com/MrSun10/Rock-Paper-Scissors-Shoot.git
 ```
